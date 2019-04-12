@@ -1,0 +1,6 @@
+2019-04-11 10:36:23 INFO  LoggerTest:25 - log test1 info
+2019-04-11 10:36:23 ERROR LoggerTest:26 - Log test1 error
+2019-04-11 10:39:07 INFO  LoggerTest:25 - log test1 info
+2019-04-11 10:39:07 ERROR LoggerTest:26 - Log test1 error
+2019-04-11 10:49:11 INFO  test log:25 - log test1 info
+2019-04-11 10:49:11 ERROR test log:26 - Log test1 error
